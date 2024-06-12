@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Martinez! I'm a software engineer from Argentina. 💙🤍💙
 - 👀 I’m interested in software engineering (no just code, but the hole life cylce management also).
-- 🌱 I’m currently learning MERN stack, I always work with .Net Technologies, but nowadays I'm trying to migrate.
+- 🌱 I’m currently learning MERN stack, I always worked with .Net Technologies, but nowadays I'm trying to migrate.
 - 💞️ I’m looking to collaborate on teaching and learning with anyone who want to. 
 - 📫 you can write me to: martinezpedro89@hotmail.com / pedro.martinez@alumnos.uai.edu.ar 
 
